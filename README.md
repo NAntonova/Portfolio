@@ -1,8 +1,10 @@
-## Hello
+## Hello World!
 
 It's very messy now (even here!) because I'm new here and in web development too. Yet, as a practice for myself, I'm trying to create the website, which can be found here: https://nantonova.github.io/Portfolio/test/. It is supposed to be the place where everyone could learn a little bit about me, see some photos of my recent trips for the last couple of years, and, if lucky, shop the stuff I'm doing in my free time such as paper earrings, which look very cute.
 
-Ops, there is nothing interesting to see what's after this sentence.
+
+
+## Below is just for myself (aka figure out for what it is)
 
 
 You can use the [editor on GitHub](https://github.com/NAntonova/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
